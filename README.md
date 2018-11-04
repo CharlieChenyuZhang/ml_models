@@ -1,2 +1,2 @@
 # ml_models
-Read more about : https://chenyuzhang.com/blog/
+Read more about my blog : https://chenyuzhang.com/blog/
